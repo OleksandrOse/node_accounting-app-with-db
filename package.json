@@ -1,5 +1,5 @@
 {
-  "name": "node_accounting-app-with-db",
+  "name": "node_accounting-app",
   "version": "1.0.0",
   "description": "Node.js accounting app with PostgreSQL",
   "main": "src/index.js",
